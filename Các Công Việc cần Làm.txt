@@ -1,0 +1,7 @@
+công việc cần làm 
+1- tìm hiểu project quản lý quán cafe bằng c# sql và devexpress
+2- tìm hiểu customer giao diện thẻ khách hàng thân thiết 
+3- đọc tìm hiểu hỗ trợ báo cáo chương trình khuyến mại đang được sử dụng nhiều nhất
+4- tổng hợp thống kê quy trình hệ thống chuẩn bị triển khai khách hàng 
+viết rằng buộc kiểm tra dữ liệu khi nhập hàng theo lô ngày hết hạn ngày sản xuất đang chưa được kiểm soát 
+viết add on kiểm tra ngày chạy end of day 
